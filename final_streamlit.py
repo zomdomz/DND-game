@@ -107,7 +107,7 @@ with tab3:
             unsafe_allow_html=True
         )
 
-        st.image(r"C:\Users\Bastian.Verhoef\OneDrive - smseymour.catholic.edu.au\Desktop\ranged_example_final.png")
+        st.image("ranged_example_final.png")
 
         st.write("the miss threshold is calculated using the 2 distances, "
                  "and it increases the likely hood of missing with distance")
